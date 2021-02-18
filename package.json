@@ -1,0 +1,27 @@
+{
+  "name": "webdriver-io",
+  "version": "1.0.0",
+  "description": "INSTALLATION",
+  "main": "login.page.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chromedriver": "^88.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kindredFP/webdriver-io.git"
+  },
+  "author": "Francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kindredFP/webdriver-io/issues"
+  },
+  "homepage": "https://github.com/kindredFP/webdriver-io#readme"
+}
