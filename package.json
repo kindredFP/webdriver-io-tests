@@ -1,8 +1,8 @@
 {
   "name": "webdriver-io",
   "version": "1.0.0",
-  "description": "INSTALLATION",
-  "main": "login.page.js",
+  "description": "Webdriver io tests",
+  "main": "./node_modules/.bin/wdio",
   "directories": {
     "test": "test"
   },
@@ -26,7 +26,7 @@
     "url": "git+https://github.com/kindredFP/webdriver-io.git"
   },
   "author": "Francis",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kindredFP/webdriver-io/issues"
   },
